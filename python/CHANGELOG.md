@@ -6,6 +6,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [21.0.0](https://www.github.com/joeldodge79/rp-test/compare/v7.20.0...v21.0.0) (2021-02-28)
+
+
+### Features
+
+* **python:** Looker 7.20 bindings ([#451](https://www.github.com/joeldodge79/rp-test/issues/451)) ([55a20d5](https://www.github.com/joeldodge79/rp-test/commit/55a20d549cab0fe950f999130706654e8fb1efcb))
+
+
+### Bug Fixes
+
+* **python:** pin cattrs at 1.1.2 ([#460](https://www.github.com/joeldodge79/rp-test/issues/460)) ([bf8f3f6](https://www.github.com/joeldodge79/rp-test/commit/bf8f3f694efd3a2b7af7d5c849694e0c7bd399c5)), closes [#455](https://www.github.com/joeldodge79/rp-test/issues/455)
+* update python and typescript sdk docs ([#1](https://www.github.com/joeldodge79/rp-test/issues/1)) ([fc1ceb1](https://www.github.com/joeldodge79/rp-test/commit/fc1ceb11d0edc4e9b704043d9340b43f1265be83))
+
 ## [7.20.0]
 
 ### Added
